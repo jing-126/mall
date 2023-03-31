@@ -9,6 +9,7 @@
 		<module>mall-order</module>
 		<module>mall-product</module>
 		<module>mall-ware</module>
+		<module>renren-security</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
